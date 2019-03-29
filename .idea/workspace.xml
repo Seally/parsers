@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1e155fe-3066-4486-b89b-e956c2173055" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nearley/stringarray/stringarray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/benchmarks/mediatype.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>varname</find>
+      <find>%</find>
+      <find>Parameter</find>
+      <find>require</find>
+      <find>lexerDefinition</find>
+      <find>export</find>
+      <find>console</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>param</replace>
+      <replace>Param</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/method-parser.ne" />
+        <option value="$PROJECT_DIR$/string-array-parser-test.js" />
+        <option value="$PROJECT_DIR$/string-array-parser.ne" />
+        <option value="$PROJECT_DIR$/media-type-parser.js" />
+        <option value="$PROJECT_DIR$/lexer-test.js" />
+        <option value="$PROJECT_DIR$/media-type-parser.ne" />
+        <option value="$PROJECT_DIR$/media-type-parser-result.js" />
+        <option value="$PROJECT_DIR$/nearley/media-type/media-type-parser-result.js" />
+        <option value="$PROJECT_DIR$/nearley/media-type/media-type-parser.js" />
+        <option value="$PROJECT_DIR$/nearley/media-type/media-type-parser.ne" />
+        <option value="$PROJECT_DIR$/chevrotain/examples/sql-select/sql-select-parser.js" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype-parser/regex-tester.js" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype-parser/mediatype-lexer.js" />
+        <option value="$PROJECT_DIR$/nearley/mediatype/mediatype-parser-result.js" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype-parser/mediatype.mjs" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype-parser/mediatype-parseresult.js" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype-parser/mediatype-visitor.js" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype-parser/mediatype.js" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype-parser/mediatype-parser.js" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype-parser/mediatype-test.js" />
+        <option value="$PROJECT_DIR$/nearley/mediatype/mediatype-parser.js" />
+        <option value="$PROJECT_DIR$/benchmarks/media-types.xml" />
+        <option value="$PROJECT_DIR$/chevrotain/method-parser/methodcall-parser.js" />
+        <option value="$PROJECT_DIR$/nearley/method-parser/method-parser.ne" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype/mediatype-parser.js" />
+        <option value="$PROJECT_DIR$/nearley/mediatype/mediatype-test.js" />
+        <option value="$PROJECT_DIR$/chevrotain/methodcall/methodcall-parser.js" />
+        <option value="$PROJECT_DIR$/chevrotain/methodcall/methodcall-test.js" />
+        <option value="$PROJECT_DIR$/nearley/methodcall/methodcall-test.js" />
+        <option value="$PROJECT_DIR$/nearley/stringarray/stringarray-parser.ne" />
+        <option value="$PROJECT_DIR$/chevrotain/stringarray/stringarray-visitor.js" />
+        <option value="$PROJECT_DIR$/chevrotain/stringarray/stringarray-parser.js" />
+        <option value="$PROJECT_DIR$/chevrotain/stringarray/stringarray.js" />
+        <option value="$PROJECT_DIR$/chevrotain/stringarray/stringarray-test.js" />
+        <option value="$PROJECT_DIR$/benchmarks/methodcall.js" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype/grammar.md" />
+        <option value="$PROJECT_DIR$/grammar.md" />
+        <option value="$PROJECT_DIR$/chevrotain/methodcall/methodcall-visitor.js" />
+        <option value="$PROJECT_DIR$/chevrotain/methodcall/methodcall.js" />
+        <option value="$PROJECT_DIR$/nearley/methodcall/methodcall.js" />
+        <option value="$PROJECT_DIR$/nearley/stringarray/stringarray.js" />
+        <option value="$PROJECT_DIR$/nearley/mediatype/mediatype-parser.ne" />
+        <option value="$PROJECT_DIR$/nearley/methodcall/methodcall-parser.ne" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype/mediatype-visitor.js" />
+        <option value="$PROJECT_DIR$/nearley/mediatype/mediatype-parseresult.js" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype/mediatype-parseresult.js" />
+        <option value="$PROJECT_DIR$/nearley/mediatype/mediatype.js" />
+        <option value="$PROJECT_DIR$/chevrotain/mediatype/mediatype.js" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/LICENSE" />
+        <option value="$PROJECT_DIR$/benchmarks/mediatype.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1909" />
+    <option name="width" value="1941" />
+    <option name="height" value="2111" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmarks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="chevrotain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="chevrotain" type="462c0819:PsiDirectoryNode" />
+              <item name="mediatype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="chevrotain" type="462c0819:PsiDirectoryNode" />
+              <item name="methodcall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="chevrotain" type="462c0819:PsiDirectoryNode" />
+              <item name="stringarray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="nearley" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="nearley" type="462c0819:PsiDirectoryNode" />
+              <item name="mediatype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="nearley" type="462c0819:PsiDirectoryNode" />
+              <item name="methodcall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="nearley" type="462c0819:PsiDirectoryNode" />
+              <item name="stringarray" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.7.0" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/all/mediatype" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\js\parsers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\js\parsers\all\mediatype" />
+      <recent name="D:\dev\js\parsers\benchmarks" />
+      <recent name="D:\dev\js\parsers\chevrotain\stringarray" />
+      <recent name="D:\dev\js\parsers\nearley\methodcall" />
+      <recent name="D:\dev\js\parsers\chevrotain\methodcall" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="nearleyc.js" type="NodeJSConfigurationType" temporary="true" application-parameters="grammar.ne -o grammar.js" nameIsGenerated="true" path-to-js-file="node_modules/nearley/bin/nearleyc.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.nearleyc.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1e155fe-3066-4486-b89b-e956c2173055" name="Default Changelist" comment="" />
+      <created>1552906867115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552906867115</updated>
+      <workItem from="1552906870361" duration="66357000" />
+      <workItem from="1553110923660" duration="923000" />
+      <workItem from="1553119151150" duration="34840000" />
+      <workItem from="1553470759389" duration="275000" />
+      <workItem from="1553472935571" duration="1437000" />
+      <workItem from="1553476342504" duration="5753000" />
+      <workItem from="1553585183672" duration="6458000" />
+      <workItem from="1553610131670" duration="13431000" />
+      <workItem from="1553657045634" duration="599000" />
+      <workItem from="1553661951799" duration="47392000" />
+      <workItem from="1553820809725" duration="24386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201851000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.098108746" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4968479" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5031521" side_tool="true" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" sideWeight="0.4988067" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3289166" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39750585" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="includedJSSourcePackages">
+      <set>
+        <option value="chevrotain" />
+      </set>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/nearley/lib/generate.js</url>
+          <line>108</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/media-type-parser.ne" />
+    <entry file="file://$PROJECT_DIR$/media-type-parser-result.js" />
+    <entry file="file://$PROJECT_DIR$/lexer-test.js" />
+    <entry file="file://$PROJECT_DIR$/media-type/media-type-parser.js" />
+    <entry file="file://$PROJECT_DIR$/media-type/media-type-parser.ne" />
+    <entry file="file://$PROJECT_DIR$/nearley/examples/json/json-test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/examples/json/json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/chevrotain/lib/chevrotain.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="68" lean-forward="true" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/examples/json/json.ne">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/chevrotain/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/chevrotain/lib/chevrotain.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/chevrotain/lib/chevrotain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="3610" column="64" lean-forward="true" selection-start-line="3610" selection-start-column="64" selection-end-line="3610" selection-end-column="64" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/mediatype/regex-tester.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.7.0/core-modules/internal/modules/cjs/loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="699" column="9" selection-start-line="699" selection-start-column="9" selection-end-line="699" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/mediatype/mediatype-parser-result.js" />
+    <entry file="file://$PROJECT_DIR$/benchmarks/media-types.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nearley/lib/nearley.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5151">
+          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/methodcall/methodcall-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/lexer-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/examples/sql-select/sql-select-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/methodcall/methodcall-parser-old.ne">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/methodcall/methodcall-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/mediatype/mediatype-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/methodcall/methodcall-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/methodcall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/stringarray/stringarray-visitor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/stringarray/stringarray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/methodcall/methodcall-visitor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/methodcall/methodcall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/mediatype/mediatype-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/stringarray/stringarray-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="94" column="24" lean-forward="true" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/methodcall/methodcall-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/mediatype/mediatype-parser.ne">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1022">
+          <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/mediatype/mediatype-parseresult.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2716">
+          <caret line="179" column="34" selection-start-line="179" selection-start-column="34" selection-end-line="179" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/mediatype/mediatype-parseresult.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="103" column="18" lean-forward="true" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/mediatype/mediatype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="85" selection-start-line="1" selection-start-column="85" selection-end-line="1" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/mediatype/mediatype-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1090">
+          <caret line="103" column="29" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/mediatype/mediatype-visitor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/mediatype/mediatype-parseresult.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2180">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/stringarray/stringarray-parser.ne">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/stringarray/stringarray-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/methodcall/methodcall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/mediatype/mediatype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/stringarray/stringarray-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/methodcall/methodcall-parser.ne">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="66" column="58" selection-start-line="66" selection-start-column="58" selection-end-line="66" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2068">
+            <caret line="126" column="76" selection-start-line="126" selection-start-column="76" selection-end-line="126" selection-end-column="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chevrotain/mediatype/mediatype-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearley/stringarray/stringarray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/mediatype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

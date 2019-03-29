@@ -1,0 +1,21 @@
+{
+  "name": "argparser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "method-parser-test.js",
+  "dependencies": {
+    "chevrotain": "^4.3.1",
+    "jasmine": "^3.3.1",
+    "moo": "^0.5.0",
+    "nearley": "^2.16.0"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "xmldom": "^0.1.27"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
