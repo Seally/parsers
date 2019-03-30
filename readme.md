@@ -43,6 +43,8 @@ JavaScript object that may be more convenient to parse.
 **Examples**
 
 *Input:* `text/html; charset=UTF-8`
+
+*Output:*
 ```
 {
   // Note that input is added by the parse() function. 
@@ -64,6 +66,8 @@ JavaScript object that may be more convenient to parse.
 ```
 
 *Input:* `application/vnd.myapp.notes+json`
+
+*Output:*
 ```
 {
   input: "application/vnd.myapp.notes+json",
@@ -87,7 +91,7 @@ JavaScript object that may be more convenient to parse.
 Note that the parser object also adds some special methods to the result object. 
 These methods are:
 
-* `isA(target)`: Checks target against subtype and suffix fields.
+* `isA(target)`: Checks target against subtype name and suffix fields.
 * `isLikelyA(target)`: Like `isA()`, but also checks against the `x-<target>` 
                        variant.
 * `isPlainText()`: Checks if the media type is a plain text type (has `type` 
