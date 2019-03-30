@@ -220,3 +220,13 @@ all acceptable quote types.
 ```
 **Note:** Make sure your backslash is not eaten by JavaScript. You may need 
           double backslashes when you actually type in that input string. 
+          
+TODO
+----
+
+* Add more benchmarks.
+* Make the current media type benchmark more sophisticated.
+* Add licensing info per file.
+* Add unit tests.
+* Write a compile script for Nearley grammar instead of having to manually 
+  invoke them one by one.
