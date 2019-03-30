@@ -22,6 +22,10 @@ For Nearley parsers, these files are required:
 * `/all/<parser_name>/**` (if any)
 * The Nearley grammar file (`*.ne`) is not actually code (on its own), but may
   be easier to read than the generated `.js` file.
+  
+Note that when copying the files into your project, you will likely need to fix
+the require lines at the top of each file. You may also want to customize the
+error handling as well (the current messages _suck_).
 
 
 **Usage Example**
