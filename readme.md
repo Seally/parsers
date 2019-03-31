@@ -1,3 +1,6 @@
+This is simply a general collection of parsers I use across my projects. You
+may or may not find them useful.
+
 General Usage
 =============
 
@@ -51,15 +54,15 @@ JavaScript object that may be more convenient to parse.
 *Output:*
 ```
 {
-  // Note that input is added by the parse() function. 
+  // Note that the "input" property is added by the parse() function. 
   // It will not be present if you use the parser directly.
   input: "text/html; charset=UTF-8",
   noParams: "text/html",
   type: "text",
   subtype: {
       name: "html",
-      // When the following values are not present in the media type, it will
-      // be set to null. This is to simplify
+      // When tree and suffix are not present in the media type, it will be set 
+      // to null. 
       tree: null,
       suffix: null
   },
@@ -82,12 +85,6 @@ JavaScript object that may be more convenient to parse.
       tree: "vnd",
       suffix: "json"
   },
-  // params is null instead of empty so you can do
-  // if(result.params) when it's empty.
-  //
-  // If you need something different whenever there are no 
-  // media type parameters, like an empty array, pass that
-  // as the second argument for the parse function.
   params: []
 };
 ```

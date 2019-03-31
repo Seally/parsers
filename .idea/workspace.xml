@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1e155fe-3066-4486-b89b-e956c2173055" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -83,8 +82,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="623">
-                <caret line="231" column="59" lean-forward="true" selection-start-line="231" selection-start-column="59" selection-end-line="231" selection-end-column="59" />
+              <first_editor relative-caret-position="283">
+                <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -198,6 +197,17 @@
             <path>
               <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
               <item name="parsers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="mediatype" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="parsers" type="b2602c69:ProjectViewProjectNode" />
@@ -323,21 +333,22 @@
       <workItem from="1553610131670" duration="13431000" />
       <workItem from="1553657045634" duration="599000" />
       <workItem from="1553661951799" duration="47392000" />
-      <workItem from="1553820809725" duration="26902000" />
+      <workItem from="1553820809725" duration="28839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204367000" />
+    <option name="totallyTimeSpent" value="206304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.098108746" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.098108746" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.4968479" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4968479" visible="true" weight="0.32969603" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5031521" side_tool="true" visible="true" weight="0.32969603" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -700,8 +711,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="623">
-            <caret line="231" column="59" lean-forward="true" selection-start-line="231" selection-start-column="59" selection-end-line="231" selection-end-column="59" />
+          <first_editor relative-caret-position="283">
+            <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
           </first_editor>
           <second_editor />
         </state>
